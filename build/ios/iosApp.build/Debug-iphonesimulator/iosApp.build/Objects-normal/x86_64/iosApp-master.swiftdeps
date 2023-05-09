@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "0bbd618e0d223b0592bbdbfeec00f760c76c2a9859bbd6709f7cf3d498bccda1"
+build_start_time: [1683527797, 43298000]
+build_end_time: [1683527804, 242426000]
+inputs:
+  "/Users/mr.cant/Documents/M/Librerias/ZillowMobile/iosApp/iosApp/SearchView.swift": [1683527755, 32364756]
+  "/Users/mr.cant/Documents/M/Librerias/ZillowMobile/iosApp/iosApp/SeatchViewModel.swift": [1683526361, 334801974]
+  "/Users/mr.cant/Documents/M/Librerias/ZillowMobile/iosApp/iosApp/iOSApp.swift": [1683527778, 864893159]

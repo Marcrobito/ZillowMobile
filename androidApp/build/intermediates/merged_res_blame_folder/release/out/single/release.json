@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.zillow.zillowmobile.android.androidApp-merged_res-56:/drawable_z_logo.xml.flat",
+        "source": "com.zillow.zillowmobile.android.androidApp-main-57:/drawable/z_logo.xml"
+    },
+    {
+        "merged": "com.zillow.zillowmobile.android.androidApp-merged_res-56:/drawable_search_bg.png.flat",
+        "source": "com.zillow.zillowmobile.android.androidApp-main-57:/drawable/search_bg.png"
+    }
+]

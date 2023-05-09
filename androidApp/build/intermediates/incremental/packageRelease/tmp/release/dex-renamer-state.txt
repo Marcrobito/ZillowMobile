@@ -1,0 +1,7 @@
+#Sun May 07 08:38:08 CDT 2023
+base.1=/Users/mr.cant/Documents/M/Librerias/ZillowMobile/androidApp/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/Users/mr.cant/Documents/M/Librerias/ZillowMobile/androidApp/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

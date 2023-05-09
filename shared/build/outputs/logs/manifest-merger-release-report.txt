@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml:2:13-83
+INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml:2:13-83
+INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml:2:13-83
+	package
+		INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
+		ADDED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml:2:13-83
+		INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
+	xmlns:android
+		ADDED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml:2:23-81
+uses-sdk
+INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml reason: use-sdk injection requested
+INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
+INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
+INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
+INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
+		ADDED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
+		INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
+	android:minSdkVersion
+		INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
+		ADDED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
+		INJECTED from /Users/mr.cant/Documents/M/Librerias/ZillowMobile/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1019099754829632036.xml
